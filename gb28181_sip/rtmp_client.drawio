@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T08:53:31.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="VMKq-V1FmM_7S1cVIHNg" version="14.2.9" type="github"><diagram id="rRWVe-ejs5-b0TVHX3YJ" name="Page-1">7Vpbc6IwFP41THcf3IFEEB6rdttOt9POsttO+xYhAjUkbAhe+us3QFCp2mln2ypddEbwOycn5/ad6KgGB/H8lKMkvGQ+JhrQ/bkGhxoAThfI1xxYlIBldEsg4JFfQsYKcKNHrEBdoVnk47SmKBgjIkrqoMcoxZ6oYYhzNqurjRmp75qgAG8ArofIJnob+SIsURv0VvgZjoKw2tmwnFISo0pZRZKGyGezNQieaHDAGRPlXTwfYJLnrspLue77DunSMY6peMmCX2ed2anRnwYXQrfD25sUw4eOsjJFJFMBa8Ai0l4/4Th3WixUJqw/We5pf4S8ScBZRv2OxwjjGjzW8p3huHjk97BfFGRdqNv5cykcMyo6YxRHZFGpWChOCiGEXXl9wGLEUUTTPJWMsg2FYtFASdMEebhuPS1aKbftfLMTsQpA3gXqWgQq19KtkdYjALbl9+CmGS7i5Ip6HCOBXSEvcWVYlqK0Xd9PwkVuKxTUNgdFanFeM0OKZ2EkzRbRweFMMkxioYiJEqvqYS7wfGdbGMtmkyTFLMaCL6RKtaCr+lMRFFqKsbNVuy91wrVWrzCkGBYsTa+aUN6oPnxFT4K2J3cFekg+vpA30JKP0XbeuJj619mIRGn4StI0gkpdsG8qwZ1UepLkskfoKE3q6V1XS8pKfTni475vWiIC7qW4m7rB0Jwf3+h3vx3nUdoRqHffc82eefFjcn7vXN9Njr4+Uxr9Y0pjPimNs6U0YEtprPcqTbedcp9oyj336WDA4hhR/4pynGZEfMZJB/V9TzqzpVMT6NQEH9+A8ud0yib4TLKeYP4mhG/EGFjSe29jwGrHQBMo1vp4MKPq/YdUI0aXYe97dPXa0dUEyrU+/j8+vsWXvzCjk58Y+R8+YJsxdsG+x67djt0mULH1sfXxkHz8x6OBUZd5EyyGSKADORkacV6Y73dcyLerH+ML2do/GuDJXw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-05T09:56:55.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="u69H5Lrpsi_56NZWOLy6" version="14.2.9" type="github">
+  <diagram id="rRWVe-ejs5-b0TVHX3YJ" name="Page-1">
+    <mxGraphModel dx="942" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TH-wG1BvgKt08hWVse3j-1" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #286d73&quot;&gt;rtmpOncreateStream&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="362" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TH-wG1BvgKt08hWVse3j-2" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #36666b&quot;&gt;rtmpSendPublish&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="422" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TH-wG1BvgKt08hWVse3j-3" value="&lt;span&gt;&amp;nbsp;&lt;/span&gt;publish(&#39;rfBd56ti2SMtYvSgD5xAV0YU99zampta7Z7S575KLkIZ9PYk&#39;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="492" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TH-wG1BvgKt08hWVse3j-4" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #286d73&quot;&gt;rtmpCommandOnresult&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="302" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TH-wG1BvgKt08hWVse3j-5" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #286d73&quot;&gt;rtmpInvokeHandler&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="240" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TH-wG1BvgKt08hWVse3j-6" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #286d73&quot;&gt;rtmpHandler&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="180" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TH-wG1BvgKt08hWVse3j-7" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #286d73&quot;&gt;rtmpChunkRead&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TH-wG1BvgKt08hWVse3j-8" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #286d73&quot;&gt;onSocketData&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="50" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6kCMPRDJTBIbW3up2iVt-1" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #286d73&quot;&gt;rtmpCommandOnresult&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6kCMPRDJTBIbW3up2iVt-3" value="返回的transId导致推流失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
