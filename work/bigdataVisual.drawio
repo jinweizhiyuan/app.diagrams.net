@@ -1,9 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T07:02:59.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.41" version="21.4.0" etag="liHNoL8UwASMy6QhHXQA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T03:21:34.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.41" etag="dzet5WEcfQm9ujapnSYI" version="21.4.0" type="github">
   <diagram name="第 1 页" id="mgrscL694AibpdRCwD92">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ydO3FBjdRYk_wp6HaoCE-1" target="ydO3FBjdRYk_wp6HaoCE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ydO3FBjdRYk_wp6HaoCE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ydO3FBjdRYk_wp6HaoCE-1" target="ydO3FBjdRYk_wp6HaoCE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ydO3FBjdRYk_wp6HaoCE-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-1" value="1.6.3 数据可视化设计与展示单元" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=60;entryDy=80;entryPerimeter=0;" edge="1" parent="1" source="ydO3FBjdRYk_wp6HaoCE-2" target="ydO3FBjdRYk_wp6HaoCE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-2" value="&lt;b&gt;1.6.3.1&amp;nbsp; 创建数据面板&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=60;entryDy=80;entryPerimeter=0;exitX=0;exitY=0;exitDx=60;exitDy=80;exitPerimeter=0;" edge="1" parent="1" source="ydO3FBjdRYk_wp6HaoCE-15" target="ydO3FBjdRYk_wp6HaoCE-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-3" value="1.6.3.2&amp;nbsp; 数据面板基础功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=60;entryDy=80;entryPerimeter=0;" edge="1" parent="1" source="ydO3FBjdRYk_wp6HaoCE-4" target="ydO3FBjdRYk_wp6HaoCE-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-4" value="1.6.3.3&amp;nbsp; 组件基础功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=60;entryDy=80;entryPerimeter=0;" edge="1" parent="1" source="ydO3FBjdRYk_wp6HaoCE-5" target="ydO3FBjdRYk_wp6HaoCE-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-5" value="1.6.3.4&amp;nbsp; 视图组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydO3FBjdRYk_wp6HaoCE-15" value="TwinsPlatform 数据看板 菜单" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="970" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
